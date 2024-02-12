@@ -1,0 +1,2 @@
+As redes não são geradas corretamente a partir dos dados fornecidos diretamente pelo paper/repositório do PRATAPA.
+Maneira correta de gerar essas redes é utilizar o GeneOrdering_Upper e o upperExpressionData
