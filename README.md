@@ -4,4 +4,6 @@ Material suplementar da tese.
 
 Organização:
 
+/CGPGRN: código fonte, changelog e manual do usuário do framework CGPGRN
+/Material Suplementar: todo material suplementar e de apoio às discussões da tese.
 /Problemas: contém todos os problemas utilizados na tese. Cada diretório possui seu próprio README.
